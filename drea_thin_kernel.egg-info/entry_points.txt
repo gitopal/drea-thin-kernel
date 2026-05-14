@@ -1,0 +1,2 @@
+[console_scripts]
+drea = drea.cli:main
