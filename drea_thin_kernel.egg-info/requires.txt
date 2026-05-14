@@ -1,0 +1,9 @@
+filelock>=3.12.0
+
+[classifier]
+transformers>=4.38.0
+torch>=2.0.0
+
+[dev]
+pytest>=7.0.0
+pytest-timeout>=2.1.0
